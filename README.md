@@ -19,3 +19,5 @@
 
 
 ## Introduction
+
+This repository contains an easily configurable tracker based on the MDETR detector. The SORT method was used as a tracking algorithm

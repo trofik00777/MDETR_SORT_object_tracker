@@ -1,0 +1,7 @@
+filterpy==1.4.5
+scikit-image==0.17.2
+lap==0.4.0
+requests~=2.25.1
+Pillow~=8.2.0
+timm==0.5.4
+transformers

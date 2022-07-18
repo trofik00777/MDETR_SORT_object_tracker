@@ -29,7 +29,7 @@ This repository contains an easily configurable tracker based on the MDETR detec
 
 ## Usage
 
-You can see how to work with the tracker in [google colab](https://colab.research.google.com/drive/1r7-x6c2cfobrmpB986j0CQPzNOomdWoW?usp=sharing) or view the `test.ipynb` file.
+You can see how to work with the tracker in [google colab](https://colab.research.google.com/drive/1r7-x6c2cfobrmpB986j0CQPzNOomdWoW?usp=sharing) or view the `MDETR_SORT.ipynb` file.
 
 Using Tracker in your project:
 
@@ -48,5 +48,4 @@ iou = 0.3
 track(my_file_path, my_out_path, i_want_to_track, max_age=max_age, min_htis=min_htis, iou_threshold=iou, log=is_logging)
 
 ```
-
 
